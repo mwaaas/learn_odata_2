@@ -11,3 +11,5 @@
 /odata.common/obj
 /odata.client/obj
 /odata.client/bin
+*.db
+core.*
